@@ -5,3 +5,7 @@ edition = "2024"
 
 [dependencies]
 diesel = { version = "2.1.2", features = ["postgres"] }
+
+[lib]
+name = "store"
+path = "src/lib.rs"

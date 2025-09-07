@@ -1,15 +1,11 @@
+use config::Config;
+use diesel::prelude::*;
+use std::{
+    env::{self, VarError},
+    smt::Error,
+};
 
-
-pub struct Store {
-
-}
-
-impl Store {
-    pub fn create_user(&self) {
-        println!("User created called");
-    }
-
-    pub fn create_website(&self) -> String {
-        String::from("1")
-    }
-}
+pub mod config;
+pub mod models;
+pub mod schema;
+pub mod store;
