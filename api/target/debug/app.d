@@ -1,0 +1,1 @@
+/mnt/c/Users/SNC/Desktop/rust/betterstack/api/target/debug/app: /mnt/c/Users/SNC/Desktop/rust/betterstack/api/src/main.rs /mnt/c/Users/SNC/Desktop/rust/betterstack/api/src/request_inputs.rs /mnt/c/Users/SNC/Desktop/rust/betterstack/api/src/request_outputs.rs /mnt/c/Users/SNC/Desktop/rust/betterstack/store/src/lib.rs
