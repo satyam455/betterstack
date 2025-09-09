@@ -5,7 +5,7 @@ impl Store {
         println!("User created called");
     }
 
-    pub fn create_user(&self) -> String {
+    pub fn get_user(&self) -> String {
         String::from("1")
     }
 }

@@ -1,5 +1,3 @@
-use config::Config;
-use diesel::prelude::*;
 use std::{
     env::{self, VarError},
     smt::Error,
