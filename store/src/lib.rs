@@ -1,7 +1,4 @@
-use std::{
-    env::{self, VarError},
-    smt::Error,
-};
+use std::env;
 
 pub mod config;
 pub mod models;
